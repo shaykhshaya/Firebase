@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Login Authentication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="hint_username">shaykhshaya</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="error_field_required">This Field is Required</string>
+    <string name="valid_username">Enter Valid 10 Letters Username</string>
+    <string name="valid_password">Enter Valid 7 Letters Password</string>
+    <string name="valid_passwordd">Enter atleast one loweCase, upperCase, numeric and special characters</string>
+    <string name="author_added">Author Successfully Added</string>
+    <string name="error">Error: %1$s</string>
+    <string name="add_new_author">Add New Author</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="city">City</string>
+    <string name="add">Add</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sort_by_name">Sort By Name</string>
+    <string name="sort_by_age">Sort By Age</string>
+    <string name="sort_by_city">Sort By City</string>
+</resources>

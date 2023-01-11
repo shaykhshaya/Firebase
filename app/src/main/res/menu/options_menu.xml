@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/options_menu"
+        android:title=""
+        android:icon="@drawable/ic_menu_dots"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/sort_by_name"
+                android:title="@string/sort_by_name"
+                 />
+            <item
+                android:id="@+id/sort_by_age"
+                android:title="@string/sort_by_age"
+                 />
+            <item
+                android:id="@+id/sort_by_city"
+                android:title="@string/sort_by_city"
+                 />
+        </menu>
+    </item>
+</menu>

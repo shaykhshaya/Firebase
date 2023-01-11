@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569498813875",
+    "project_id": "login-authentication-1adc0",
+    "storage_bucket": "login-authentication-1adc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569498813875:android:7d3f0bfcacd5ab7ad877c6",
+        "android_client_info": {
+          "package_name": "com.shaya.loginauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569498813875-g51h1tmu4n1febvvivlrvue6g27uh502.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_T2Y1aKGRH1qJcyYRCyxmG7dgEUUI7WM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569498813875-g51h1tmu4n1febvvivlrvue6g27uh502.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
